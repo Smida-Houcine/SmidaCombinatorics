@@ -2,7 +2,7 @@
 
 
 
-An EViews add-in implementing the SmidaCombinatorics algorithm to generate and display all possible arrangements, permutations, and combinations of a set of distinct elements without repetition.
+An EViews add-in implementing the **SmidaCombinatorics** algorithm to generate and display all possible arrangements, permutations, and combinations of a set of distinct elements without repetition.
 
 
 
@@ -10,7 +10,7 @@ An EViews add-in implementing the SmidaCombinatorics algorithm to generate and d
 
 
 
-SmidaCombinatorics is an EViews add-in designed to generate arrangements, permutations, and combinations of a set of distinct elements without repetition.
+**SmidaCombinatorics** is an EViews add-in designed to generate arrangements, permutations, and combinations of a set of distinct elements without repetition.
 
 
 
@@ -77,7 +77,7 @@ For both options, open the `SmidaCombinatorics.aipz` file, click **Install**, an
 
 
 
-After installation, users can launch SmidaCombinatorics in two ways:
+After installation, users can launch **SmidaCombinatorics** in two ways:
 
 
 
@@ -119,7 +119,7 @@ After launching the add-in, users can:
 
 - enter a list of distinct elements;
 
-- select the desired combinatorial operation (Arrangement, Permutation, or Combination);
+- select the desired combinatorial operation (Arrangement / Permutation or Combination);
 
 - specify the number of selected elements k;
 
@@ -258,22 +258,14 @@ The repository contains:
 ```
 
 SmidaCombinatorics/
-
 │
-
 ├── SmidaCombinatorics.aipz
-
+├── SmidaCombinatorics.install.prg
 ├── SmidaCombinatorics.prg
-
 ├── SmidaCombinatorics.pdf
-
+├── README.md
 │
-
-├── Images/
-
-├── Examples/
-
-└── Source/
+└── Images/
 
 ```
 
@@ -281,15 +273,18 @@ SmidaCombinatorics/
 
 ## Citation
 
-
-
 If you use SmidaCombinatorics in academic work, please cite:
 
+Smida, Houcine L. (2026).  
+*SmidaCombinatorics: Combinatorics — Arrangements, Permutations, Combinations.*
 
+Source code and documentation available at:
 
-> Smida, Houcine L. (2026).
+https://github.com/Smida-Houcine/SmidaCombinatorics 
 
-> SmidaCombinatorics: An EViews Add-in for Generating Arrangements, Permutations, and Combinations.
+Add-in package available at:
+
+http://www.eviews.com/Addins/SmidaCombinatorics.aipz 
 
 
 
@@ -305,5 +300,5 @@ If you use SmidaCombinatorics in academic work, please cite:
 
 
 
-License information will be provided in the repository.
+License information is provided in the `LICENSE` file in the repository.
 
