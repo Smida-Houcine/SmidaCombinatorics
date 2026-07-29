@@ -56,11 +56,15 @@ The add-in package is available in two ways:
 
 ### 1. From this GitHub repository
 
-Download the package file: SmidaCombinatorics.aipz
+Download the package file: 
+
+'SmidaCombinatorics.aipz'
 
 ### 2. From the official EViews Add-ins website
 
-The add-in package can be downloaded from: http://www.eviews.com/Addins/smidacombinatorics.aipz 
+The add-in package can be downloaded from: 
+
+https://www.eviews.com/Addins/smidacombinatorics.aipz 
 
 
 ### Installation procedure
