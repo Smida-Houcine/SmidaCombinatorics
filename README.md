@@ -132,11 +132,9 @@ Let n denote the number of distinct elements in the input set and k the number o
 
 
 
-\\\[
-
-1 \\leq k \\leq n
-
-\\]
+$$
+1 \leq k \leq n
+$$
 
 
 
