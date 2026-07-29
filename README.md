@@ -112,9 +112,15 @@ SmidaCombinatorics
 
 
 
+## Running SmidaCombinatorics.prg
+
+Users can also download `SmidaCombinatorics.prg` from this GitHub repository.
+
+Open the file in EViews and execute it. The SmidaCombinatorics interface will be launched, allowing users to generate arrangements, permutations, and combinations.
+
+
+
 After launching the add-in, users can:
-
-
 
 - enter a list of distinct elements;
 
@@ -123,15 +129,6 @@ After launching the add-in, users can:
 - specify the number of selected elements k;
 
 - generate and display the complete set of results.
-
-
-
-## Running SmidaCombinatorics.prg
-
-Users can also download `SmidaCombinatorics.prg` from this GitHub repository.
-
-Open the file in EViews and execute it. The SmidaCombinatorics interface will be launched, allowing users to generate arrangements, permutations, and combinations.
-
 
 
 ## Mathematical Background
