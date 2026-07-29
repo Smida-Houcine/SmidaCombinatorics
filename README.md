@@ -54,7 +54,11 @@ SmidaCombinatorics provides the following features:
 
 
 
-Download the add-in package:
+Download the add-in package from:
+
+http://www.eviews.com/Addins/SmidaCombinatorics.aipz 
+
+The package file is:
 
 
 
@@ -66,7 +70,7 @@ SmidaCombinatorics.aipz
 
 
 
-Open the file, click \*\*Install\*\*, and follow the on-screen instructions.
+Open the file, click **Install**, and follow the on-screen instructions.
 
 
 
