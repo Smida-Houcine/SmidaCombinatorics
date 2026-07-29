@@ -154,11 +154,9 @@ The number of arrangements is:
 
 
 
-\\\[
-
-A\_n^k=\\frac{n!}{(n-k)!}
-
-\\]
+$$
+A_n^k=\frac{n!}{(n-k)!}
+$$
 
 
 
@@ -174,11 +172,9 @@ The number of permutations is:
 
 
 
-\\\[
-
-P\_n=A\_n^n=n!
-
-\\]
+$$
+P_n=A_n^n=n!
+$$
 
 
 
@@ -194,11 +190,9 @@ The number of combinations is:
 
 
 
-\\\[
-
-C\_n^k=\\frac{n!}{k!(n-k)!}
-
-\\]
+$$
+C_n^k=\frac{n!}{k!(n-k)!}
+$$
 
 
 
