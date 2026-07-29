@@ -64,7 +64,7 @@ Download the package file:
 
 The add-in package can be downloaded from:
 
-`http://www.eviews.com/Addins/SmidaCombinatorics.aipz`
+http://www.eviews.com/Addins/SmidaCombinatorics.aipz 
 
 ### Installation procedure
 
