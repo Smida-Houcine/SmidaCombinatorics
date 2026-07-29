@@ -1,4 +1,4 @@
-\# SmidaCombinatorics
+# SmidaCombinatorics
 
 
 
