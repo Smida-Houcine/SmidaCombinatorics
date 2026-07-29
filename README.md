@@ -1,2 +1,314 @@
-# SmidaCombinatorics
-An EViews add-in implementing the SmidaCombinatorics algorithm to generate all possible arrangements, permutations, and combinations of a set of distinct elements without repetition.
+\# SmidaCombinatorics
+
+
+
+An EViews add-in implementing the SmidaCombinatorics algorithm to generate and display all possible arrangements, permutations, and combinations of a set of distinct elements without repetition.
+
+
+
+\## Overview
+
+
+
+SmidaCombinatorics is an EViews add-in designed to generate arrangements, permutations, and combinations of a set of distinct elements without repetition.
+
+
+
+The add-in provides a graphical user interface and a command-line interface, allowing users to perform combinatorial computations directly within EViews.
+
+
+
+The generated results are displayed in structured EViews tables and support both numeric and non-numeric input elements.
+
+
+
+\## Features
+
+
+
+SmidaCombinatorics provides the following features:
+
+
+
+\- Generation of arrangements without repetition.
+
+\- Generation of permutations without repetition.
+
+\- Generation of combinations without repetition.
+
+\- Support for numeric and non-numeric input elements.
+
+\- Automatic detection of duplicate elements in the input set.
+
+\- Specification of the number of selected elements k.
+
+\- Generation and display of complete results in structured EViews tables.
+
+\- Graphical user interface integrated into EViews.
+
+\- Command-line execution through the EViews command window.
+
+
+
+\## Installation
+
+
+
+Download the add-in package:
+
+
+
+```
+
+SmidaCombinatorics.aipz
+
+```
+
+
+
+Open the file, click \*\*Install\*\*, and follow the on-screen instructions.
+
+
+
+\## Usage
+
+
+
+After installation, users can launch SmidaCombinatorics in two ways:
+
+
+
+\### 1. From the EViews menu
+
+
+
+Select:
+
+
+
+```
+
+Add-ins → Smida's Combinatorics (Arrangements, Permutations, Combinations)
+
+```
+
+
+
+\### 2. From the EViews command line
+
+
+
+Type:
+
+
+
+```
+
+SmidaCombinatorics
+
+```
+
+
+
+After launching the add-in, users can:
+
+
+
+\- enter a list of distinct elements;
+
+\- select the desired combinatorial operation (Arrangement, Permutation, or Combination);
+
+\- specify the number of selected elements k;
+
+\- generate and display the complete set of results.
+
+
+
+\## Mathematical Background
+
+
+
+Let n denote the number of distinct elements in the input set and k the number of selected elements, where:
+
+
+
+\\\[
+
+1 \\leq k \\leq n
+
+\\]
+
+
+
+The add-in performs three types of combinatorial calculations without repetition.
+
+
+
+\### Arrangement
+
+
+
+An arrangement without repetition is an ordered selection of k elements chosen from a set of n distinct elements. The order of the selected elements is important.
+
+
+
+The number of arrangements is:
+
+
+
+\\\[
+
+A\_n^k=\\frac{n!}{(n-k)!}
+
+\\]
+
+
+
+\### Permutation
+
+
+
+A permutation without repetition is an ordered arrangement of all n distinct elements of a set. The order of the elements is important.
+
+
+
+The number of permutations is:
+
+
+
+\\\[
+
+P\_n=A\_n^n=n!
+
+\\]
+
+
+
+\### Combination
+
+
+
+A combination without repetition is an unordered selection of k elements chosen from a set of n distinct elements. The order of the selected elements is not important.
+
+
+
+The number of combinations is:
+
+
+
+\\\[
+
+C\_n^k=\\frac{n!}{k!(n-k)!}
+
+\\]
+
+
+
+\## Examples
+
+
+
+For a set of four elements:
+
+
+
+```
+
+A B C D
+
+```
+
+
+
+the add-in can generate:
+
+
+
+\- arrangements for a selected number of elements k;
+
+\- all permutations when k = n;
+
+\- combinations for a selected number of elements k.
+
+
+
+The generated results are displayed in EViews tables.
+
+
+
+\## Documentation
+
+
+
+The complete user guide is available in:
+
+
+
+```
+
+SmidaCombinatorics.pdf
+
+```
+
+
+
+\## Files
+
+
+
+The repository contains:
+
+
+
+```
+
+SmidaCombinatorics/
+
+│
+
+├── SmidaCombinatorics.aipz
+
+├── SmidaCombinatorics.prg
+
+├── SmidaCombinatorics.pdf
+
+│
+
+├── Images/
+
+├── Examples/
+
+└── Source/
+
+```
+
+
+
+\## Citation
+
+
+
+If you use SmidaCombinatorics in academic work, please cite:
+
+
+
+> Smida, Houcine L. (2026).  
+
+> SmidaCombinatorics: An EViews Add-in for Generating Arrangements, Permutations, and Combinations.
+
+
+
+\## Author
+
+
+
+\*\*Houcine L. Smida\*\*
+
+
+
+\## License
+
+
+
+License information will be provided in the repository.
+
