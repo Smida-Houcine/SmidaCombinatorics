@@ -72,6 +72,14 @@ https://www.eviews.com/Addins/smidacombinatorics.aipz
 For both options, open the `SmidaCombinatorics.aipz` file, click **Install**, and follow the on-screen instructions.
 
 
+## Running SmidaCombinatorics.prg
+
+Users can also run the add-in directly using the file:
+
+`SmidaCombinatorics.prg`
+
+Open the file in EViews and execute it. The SmidaCombinatorics interface will be launched, allowing users to generate arrangements, permutations, and combinations.
+
 
 ## Usage
 
