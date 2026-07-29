@@ -52,25 +52,23 @@ SmidaCombinatorics provides the following features:
 
 ## Installation
 
+The add-in package is available in two ways:
 
+### 1. From this GitHub repository
 
-Download the add-in package from:
+Download the package file:
 
-http://www.eviews.com/Addins/SmidaCombinatorics.aipz 
+`SmidaCombinatorics.aipz`
 
-The package file is:
+### 2. From the official EViews Add-ins website
 
+The add-in package can be downloaded from:
 
+`http://www.eviews.com/Addins/SmidaCombinatorics.aipz`
 
-```
+### Installation procedure
 
-SmidaCombinatorics.aipz
-
-```
-
-
-
-Open the file, click **Install**, and follow the on-screen instructions.
+For both options, open the `SmidaCombinatorics.aipz` file, click **Install**, and follow the on-screen instructions.
 
 
 
