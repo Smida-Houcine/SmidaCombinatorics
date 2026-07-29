@@ -284,7 +284,7 @@ https://github.com/Smida-Houcine/SmidaCombinatorics
 
 Add-in package available at:
 
-http://www.eviews.com/Addins/SmidaCombinatorics.aipz 
+https://www.eviews.com/Addins/SmidaCombinatorics.aipz 
 
 
 
