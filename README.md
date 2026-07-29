@@ -58,7 +58,7 @@ The add-in package is available in two ways:
 
 Download the package file: 
 
-'SmidaCombinatorics.aipz'
+`SmidaCombinatorics.aipz`
 
 ### 2. From the official EViews Add-ins website
 
@@ -301,7 +301,7 @@ If you use SmidaCombinatorics in academic work, please cite:
 
 
 
-\## License
+## License
 
 
 
